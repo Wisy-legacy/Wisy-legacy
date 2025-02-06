@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning HTML, CSS, JavaScript.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me wisdomchika1902gmail.com
+- 📫 How to reach me wisdomchika190@gmail.com
 
 <!---
 Wisy-legacy/Wisy-legacy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
