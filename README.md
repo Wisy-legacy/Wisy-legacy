@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wisy-legacy
 - 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning HTML, CSS, JavaScript.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working with HTML, CSS, JavaScript, React, tailwind css.
+- 💞️ I’m looking to collaborate on any frontend web Applications
 - 📫 How to reach me wisdomchika190@gmail.com
 
 <!---
